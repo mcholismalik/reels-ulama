@@ -26,7 +26,7 @@ function Homepage() {
       name: "Habib Muhammad Luthfi",
       place: "Pekalongan",
       birthDate: "10 November 1947",
-      imageUrl: "https://www.radarcirebon.com/wp-content/uploads/2022/01/habib-luthfi2.jpg"
+      imageUrl: "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/02/08/1106347474.jpeg"
     },    
     {
       name: "Ustadz Hanan Attaki",
